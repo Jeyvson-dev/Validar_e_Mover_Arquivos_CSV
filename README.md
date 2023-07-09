@@ -6,3 +6,5 @@ Modo de usar:
 
    Caso de sucesso na importação a aplicação irá mover o arquivo para a pasta destinada ("FAIL""SUCESS"), Informará no terminal e alterará o seu nome para evitar futuras duplicidades no nome dos arquivos
 e melhor gestão.
+
+   O programa já cotem 3 arquivos na pasta "FILLES" para testes 1  na pasta "FAIL" e um na "SUCESS" para que possa comparar futuras utilizações do app
